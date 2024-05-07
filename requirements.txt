@@ -1,0 +1,18 @@
+pyttsx3
+speech_recognition as sr
+webbrowser
+datetime
+pyjokes
+wikipedia
+ios
+time
+sys 
+random
+pyautogui
+socket
+speedtest
+psutil
+wolframalpha
+smtplib
+re
+requests
